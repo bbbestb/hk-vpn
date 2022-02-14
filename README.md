@@ -375,4 +375,4 @@
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
 
 
-### 更多信息，详见 [老铁多年使用推荐，最好用的几款VPN梯子](https://github.com/fqmama/hkvpn)
+### 更多信息，详见 [老铁多年使用推荐，最好用的几款VPN梯子](https://github.com/fqmama/tizi)
