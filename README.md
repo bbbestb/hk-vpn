@@ -41,167 +41,21 @@
 
 
 
-<figure class="wp-block-image size-large"><img width="1024" height="480" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20480'%3E%3C/svg%3E" alt="中國翻牆VPN推薦" class="wp-image-633" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/05/中國翻牆VPN推薦-1024x480.jpg 1024w, https://vpns.tw/wp-content/uploads/2021/05/中國翻牆VPN推薦-300x141.jpg 300w, https://vpns.tw/wp-content/uploads/2021/05/中國翻牆VPN推薦-768x360.jpg 768w, https://vpns.tw/wp-content/uploads/2021/05/中國翻牆VPN推薦.jpg 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/05/%E4%B8%AD%E5%9C%8B%E7%BF%BB%E7%89%86VPN%E6%8E%A8%E8%96%A6-1024x480.jpg"><noscript><img width="1024" height="480" src="https://vpns.tw/wp-content/uploads/2021/05/%E4%B8%AD%E5%9C%8B%E7%BF%BB%E7%89%86VPN%E6%8E%A8%E8%96%A6-1024x480.jpg" alt="中國翻牆VPN推薦" class="wp-image-633" srcset="https://vpns.tw/wp-content/uploads/2021/05/中國翻牆VPN推薦-1024x480.jpg 1024w, https://vpns.tw/wp-content/uploads/2021/05/中國翻牆VPN推薦-300x141.jpg 300w, https://vpns.tw/wp-content/uploads/2021/05/中國翻牆VPN推薦-768x360.jpg 768w, https://vpns.tw/wp-content/uploads/2021/05/中國翻牆VPN推薦.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></figure>
+
+
+<p>ExpressVPN日本提供刪除機房節點：</p>
 
 
 
-<p>很可惜，絕大多數的VPN軟體都不能幫助你從大陸翻牆，它們已經徹底輸給GFW，下面的VPN推薦，是在中國大陸能用的翻牆軟體，除它們以外，請不要在其它VPN上浪費金錢，也不要在任何免費VPN軟體上浪費時間，它們沒有一個是能用的。</p>
+<ul><li>東京：支援LIGHTWAY（UDP+TCP）、傳統OPENVPN、L2TP/IPSEC、IKEV2協議</li><li>東京-2：支援LIGHTWAY（UDP+TCP）、傳統OPENVPN、IKEV2協議</li><li>橫濱：支援LIGHTWAY（UDP+TCP）、傳統OPENVPN、IKEV2協議</li></ul>
 
 
 
-<h2><span id="zhong_guo_fan_qiangVPN_tui_jian">中國翻牆VPN推薦</span></h2>
-
-
-
-<h3><span id="AstrillVPN">AstrillVPN</span></h3>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><picture class="wp-image-689">
-<source type="image/webp" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/astrill-logo.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20250&#039;%3E%3C/svg%3E"/>
-<img width="300" height="250" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20250&#039;%3E%3C/svg%3E" alt="astrill logo" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/astrill-logo.png"/>
-</picture>
-<noscript><picture class="wp-image-689">
-<source type="image/webp" srcset="https://vpns.tw/wp-content/uploads/2021/06/astrill-logo.png.webp"/>
-<img width="300" height="250" src="https://vpns.tw/wp-content/uploads/2021/06/astrill-logo.png" alt="astrill logo"/>
-</picture>
-</noscript></figure></div>
-
-
-
-
-
-
-
-<p>依據我們2020-2021從位於上海的伺服器經過近兩年的實地使用測試，Astrill可能是最穩定的中國VPN之一。</p>
-
-
-
-<p>StealthVPN協議能幫你近乎完美地穿透GFW的深層資料包檢查（DPI），有效性達到了95-100%。但很可惜這個協議無法在iOS裝置使用。如果你需要能適應iOS的中國VPN，可以用 <span class="glossary-tooltip glossary-term-401" tabindex="0"><span class="glossary-link"><a href="https://indx.cc/exp" target="_blank" rel="nofollow ">ExpressVPN</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">世界上最好的VPN，沒有之一。</span></span></span> 。</p>
-
-
-
-<p>Astrill也支援智慧連線，它使用中國的區域性IP地址來躲避審查，同時祕密地隧道化並解除國際網站的封鎖。它是訪問WhatsApp、YouTube等被牆服務的理想選擇。</p>
-
-
-
-<p>實際上，大量生活在中國大陸的西方人都在用Astrill，價格貴可能是它最大的缺點。</p>
+<p>每一處節點的IP地址是隨機的，這些日本IP的可用性很高。</p>
 
 
 
 <p>
-
-
-
-</p><p class="pro">支援OpenWeb、Stealth VPN、WireGuard等最新協議。</p>
-
-
-
-<p class="pro">支援同時5臺裝置連線。</p>
-
-
-
-<p class="pro">支援Windows、MacOS、Linux、iOS、Android、路由器。</p>
-
-
-
-<p class="pro">支援智慧連線。</p>
-
-
-
-<p class="pro">支援BT/P2P下載。</p>
-
-
-
-<p class="pro">支援Onion Over VPN。</p>
-
-
-
-<p class="pro">支援 <span class="glossary-tooltip glossary-term-73" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=HZqZ5oMBJ7A" target="_blank">Kill Switch</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">網路在VPN與非VPN間切換時（如VPN軟體正在連線或暫時斷線）會臨時阻止出口流量，防止資料洩露。</span></span></span> 。</p>
-
-
-
-<p class="pro">支援 埠轉發 。</p>
-
-
-
-<p class="pro">自帶廣告攔截。</p>
-
-
-
-<p class="pro">有靜態IP可選。</p>
-
-
-
-<p class="pro">可加選多跳VPN降低延遲與提速，增加匿名性。</p>
-
-
-
-<p class="pro">接受比特幣付款。</p>
-
-
-
-<p class="pro">可以用來從中國翻牆上網。</p>
-
-
-
-<p class="con">價格很貴，年費套餐需要120美金。</p>
-
-
-
-<div class="wp-container-6205da432f7a5 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/astrillvpn" rel="nofollow noopener" target="_blank">AstrillVPN官方網站</a></div>
-
-
-
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.astrill.com/videos" target="_blank" rel="noopener">Astrill視訊教程</a></div>
-</div>
-
-
-
-<h3><span id="ExpressVPN">ExpressVPN</span></h3>
-
-
-
-<figure class="wp-block-image size-large" id="expressvpn"><picture class="wp-image-691">
-<source type="image/webp" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png.webp 1000w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-300x117.png.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-768x299.png.webp 768w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201000%20389&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"/>
-<img width="1000" height="389" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201000%20389&#039;%3E%3C/svg%3E" alt="expressvpn logo" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png 1000w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-300x117.png 300w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-768x299.png 768w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png"/>
-</picture>
-<noscript><picture class="wp-image-691">
-<source type="image/webp" srcset="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png.webp 1000w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-300x117.png.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-768x299.png.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px"/>
-<img width="1000" height="389" src="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png" alt="expressvpn logo" srcset="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png 1000w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-300x117.png 300w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-768x299.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"/>
-</picture>
-</noscript></figure>
-
-
-
-<div class="wp-container-6205da432feff wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/exp" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
-</div>
-
-
-
-
-
-
-
-<p>2020年末之前，ExpressVPN一直為中國大陸網民提供方便購買的官網映象節點，但很可惜，這個為中國網際網路使用者服務了十幾年的VPN軟體，在2020年後不再提供大陸能直接訪問的映象網站，也就是說，從此以後，如果你身在大陸將很難買到這個VPN，除非你先翻牆，但在買到可靠翻牆軟體之前實現翻牆，是一件很困難的事。我建議你在進入中國大陸之前買好ExpressVPN。</p>
-
-
-
-<p>我確定在中國大陸可以使用ExpressVPN翻牆，雖然能連的節點只有香港、日本、新加坡、洛杉磯少數幾個地方，但無論你是在上海還是深圳，哈爾濱還是武漢，這些節點能幫你順利翻牆，訪問到Google、Facebook、Twitter、Instagram、Youtube等常用國外服務。ExpressVPN的連線速度和傳輸速度並不總是最快的，但裝置支援與安全性絕佳，穩定性也不錯，這是我推薦ExpressVPN的理由。</p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img width="368" height="602" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20368%20602'%3E%3C/svg%3E" alt="" class="wp-image-692" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/expressvpn%E4%B8%AD%E5%9C%8B%E6%88%AA%E5%9C%96.png"><noscript><img width="368" height="602" src="https://vpns.tw/wp-content/uploads/2021/06/expressvpn%E4%B8%AD%E5%9C%8B%E6%88%AA%E5%9C%96.png" alt="" class="wp-image-692"></noscript></figure></div>
-
-
-
-<p>
-
-
-
-
 
 
 
@@ -217,7 +71,7 @@
 
 
 
-<p class="pro">經<a href="https://www.expressvpn.com/blog/pwc-audits-expressvpn-servers-to-confirm-essential-privacy-protections/" class="rank-math-link" target="_blank" rel="noopener">第三方審計</a>的無日誌政策，無硬碟的伺服器，斷電即擦除，已被<a href="https://en.wikipedia.org/wiki/ExpressVPN#Assassination_of_Andrei_Karlov" class="rank-math-link" target="_blank" rel="noopener">國際事件</a>證實。如果你重視上網隱私，你應該首先考慮ExpressVPN，在隱私保護這一點上，沒有任何一個VPN比它做得更好。</p>
+<p class="pro">經第三方審計的無日誌政策，無硬碟的伺服器，斷電即擦除，已被<a href="https://en.wikipedia.org/wiki/ExpressVPN#Assassination_of_Andrei_Karlov" class="rank-math-link" target="_blank" rel="noopener">國際事件</a>證實。如果你重視上網隱私，你應該首先考慮ExpressVPN，在隱私保護這一點上，沒有任何一個VPN比它做得更好。</p>
 
 
 
@@ -249,9 +103,162 @@
 
 
 
-<div class="wp-container-6205da4330508 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/exp" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
+<div class="wp-container-6205cd6f72ad1 wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=japanVPN" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
 </div>
+
+
+
+<h3><span id="NordVPN">NordVPN</span></h3>
+
+
+![https://github.com/fqmama/tizi](https://github.com/fqmama/tizi/blob/main/files/jp2.jpg)
+
+
+<div class="wp-container-6205cd6f730ec wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=japanVPN" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+</div>
+
+
+
+
+
+
+
+<p>SurfShark日本節點支援OPENVPN、IPSEC/IKEV2、P2P，官方未披露具體位置，但如果你在尋找觀看日本Netflix的VPN，它可能是價效比最高的。</p>
+
+
+
+<p>Netflix日本擁有世界上最大的獨家節目庫，有1200部其他地方無法訪問的電影和節目，例如《被盜的身份》或《石博士》。內容從最新的節目和動漫到歷史上的經典和獨立電影。</p>
+
+
+
+<p>
+
+
+
+</p><p class="pro">不限裝置數量。</p>
+
+
+
+<p class="pro">自動攔截廣告和惡意軟體。</p>
+
+
+
+<p class="pro">支援所有主流作業系統，提供Chrome、Firefox外掛。</p>
+
+
+
+<p class="pro">支援<span class="glossary-tooltip glossary-term-86" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=25maiR0IeRw" target="_blank">隧道拆分</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">VPN客戶端選擇性地決定哪些APP或到某些網址的訪問流量經過或不經過VPN加密通道。</span></span></span>。</p>
+
+
+
+<p class="pro">30天無理由退款。</p>
+
+
+
+<p class="pro">接受加密貨幣支付。</p>
+
+
+
+<p class="pro">接受支付寶支付。</p>
+
+
+
+<p class="con">P2P速度慢。</p>
+
+
+
+<p class="con">可以用來從中國翻牆但不穩定。</p>
+
+
+
+
+<h3><span id="NordVPN">NordVPN</span></h3>
+
+
+
+
+
+
+<div class="wp-container-6205cd6f73d60 wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=japanVPN" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+</div>
+
+
+
+
+
+
+
+<p>NordVPN擁有80+日本伺服器，支援P2P，支援NordLynx、IKEV2/IPSEC、OPENVPN協議。</p>
+
+
+
+<p>
+
+
+
+</p><p class="pro">基於 <span class="glossary-tooltip glossary-term-60" tabindex="0"><span class="glossary-link"><a href="https://www.wireguard.com/" target="_blank">WireGuard</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">一种比传统VPN协议更高效更安全的加密传输协议。</span></span></span> 的輕量VPN協議，為大流量網路應用而優化。</p>
+
+
+
+<p class="pro">支援P2P。</p>
+
+
+
+<p class="pro">經過三方審計的無日誌政策。</p>
+
+
+
+<p class="pro">支援所有作業系統，支援同時6臺裝置訪問。</p>
+
+
+
+<p class="pro">提供Chrome、Firefox瀏覽器外掛。</p>
+
+
+
+<p class="pro">支援 <span class="glossary-tooltip glossary-term-73" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=HZqZ5oMBJ7A" target="_blank">Kill Switch</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">網路在VPN與非VPN間切換時（如VPN軟體正在連線或暫時斷線）會臨時阻止出口流量，防止資料洩露。</span></span></span> 。</p>
+
+
+
+<p class="pro">支援<span class="glossary-tooltip glossary-term-86" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=25maiR0IeRw" target="_blank">隧道拆分</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">VPN客戶端選擇性地決定哪些APP或到某些網址的訪問流量經過或不經過VPN加密通道。</span></span></span>。</p>
+
+
+
+<p class="pro">提供固定地區的私有IP，每年70美金，每個IP同時供2臺裝置使用。</p>
+
+
+
+<p class="pro">自動遮蔽廣告和惡意網站。</p>
+
+
+
+<p class="pro">接受比特幣支付。</p>
+
+
+
+<p class="con">只有部分節點支援P2P。</p>
+
+
+
+<p class="con">並非所有客戶端都支援<span class="glossary-tooltip glossary-term-86" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=25maiR0IeRw" target="_blank">隧道拆分</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">VPN客戶端選擇性地決定哪些APP或到某些網址的訪問流量經過或不經過VPN加密通道。</span></span></span>。</p>
+
+
+
+<p class="con">需要在客戶端區分混淆與非混淆伺服器，令人費解，為什麼不為所有節點開啟更安全的混淆服務。</p>
+
+
+
+<p class="con">中國大陸使用極不穩定。</p>
+
+
+
+<div class="wp-container-6205cd6f742b7 wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=japanVPN" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+</div>
+
 
 
 
@@ -264,22 +271,18 @@
 
 
 
+<p>PandaVPN提供的日本東京和大阪的節點，全線BGPA線路，大量NETFLIX IP。</p>
 
 
 
-<p>PandaVPN為中國翻牆使用者提供美國、香港、韓國、日本、新加坡、臺灣、澳大利亞、英國、法國、德國 … 等地的豐富節點資源，它是我們測試過的節點最多的中國VPN，連線速度快，也比較穩定。</p>
+![https://github.com/fqmama/tizi](https://camo.githubusercontent.com/3a9849809af5084f19d73fffabeb4dfe605d9498e245b773e0612d5c4bbe007c/68747470733a2f2f76706e732e74772f77702d636f6e74656e742f75706c6f6164732f323032312f30362f50616e646156504e2545362539372541352545362539432541432545372541462538302545392542422539452e706e67)
 
-
-
-<div class="wp-block-image"><figure class="aligncenter size-full"><img width="480" height="660" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20660'%3E%3C/svg%3E" alt="PandaVPN中國翻牆可用節點" class="wp-image-698" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/PandaVPN%E4%B8%AD%E5%9C%8B%E7%BF%BB%E7%89%86%E5%8F%AF%E7%94%A8%E7%AF%80%E9%BB%9E.png"><noscript><img width="480" height="660" src="https://vpns.tw/wp-content/uploads/2021/06/PandaVPN%E4%B8%AD%E5%9C%8B%E7%BF%BB%E7%89%86%E5%8F%AF%E7%94%A8%E7%AF%80%E9%BB%9E.png" alt="PandaVPN中國翻牆可用節點" class="wp-image-698"></noscript></figure></div>
-
+<div class="wp-container-6205cd6f75332 wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.pantoto.xyz/r/22216799" rel="nofollow noopener" target="_blank">PandaVPN官方網站</a></div>
+</div>
 
 
 <p>
-
-
-
-
 
 
 
@@ -319,106 +322,9 @@
 
 
 
-<div class="wp-container-6205da4330d92 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/pandavpn" rel="nofollow noopener" target="_blank">PandaVPN官方網站</a></div>
+<div class="wp-container-6205cd6f75332 wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.pantoto.xyz/r/22216799" rel="nofollow noopener" target="_blank">PandaVPN官方網站</a></div>
 </div>
-
-
-
-<h3><span id="VyprVPN">VyprVPN</span></h3>
-
-
-
-
-
-
-
-<p class="pro">總部位於資料隱私保護法律嚴苛的中立國：瑞士。</p>
-
-
-
-<p class="pro">全球2百萬使用者。</p>
-
-
-
-<p class="pro">VyprVPN的伺服器都是自有的，而非租用第三方雲服務的主機。</p>
-
-
-
-<p class="pro">客戶端支援絕大多數裝置，包括絕大多數iOS和Android裝置。</p>
-
-
-
-<p class="pro">支援5臺裝置同時連線。</p>
-
-
-
-<p class="pro">支援 <span class="glossary-tooltip glossary-term-60" tabindex="0"><span class="glossary-link"><a href="https://www.wireguard.com/" target="_blank">WireGuard</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">一种比传统VPN协议更高效更安全的加密传输协议。</span></span></span> 協議，無DNS洩露，支援 <span class="glossary-tooltip glossary-term-73" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=HZqZ5oMBJ7A" target="_blank">Kill Switch</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">網路在VPN與非VPN間切換時（如VPN軟體正在連線或暫時斷線）會臨時阻止出口流量，防止資料洩露。</span></span></span> ，經過<a class="rank-math-link" href="https://www.vyprvpn.com/audit.pdf" target="_blank" rel="noopener">第三方審計</a>的無日誌（No-Logs）政策。</p>
-
-
-
-<p class="pro">廣泛支援主流流媒體平臺（如Hulu、Netflix）。</p>
-
-
-
-<p class="pro">獨創變色龍協議（Chameleon Protocol），是極少數能幫助中國網民翻牆上網的VPN。</p>
-
-
-
-<p class="pro">提供能獨立部署私有伺服器的商用方案。</p>
-
-
-
-<p class="pro">承諾30天無理由退款以及24/7實時線上客服。</p>
-
-
-
-<p class="con">已不再接受支付寶/微信付款，對中國大陸使用者來說不太方便。</p>
-
-
-
-<p class="con">變色龍協議下的連線與傳輸速度都不算快。</p>
-
-
-
-<div class="wp-container-6205da43314d0 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/vyr" rel="nofollow noopener" target="_blank">VyprVPN官方網站</a></div>
-</div>
-
-
-
-<h3><span id="LightYear_VPN">LightYear VPN</span></h3>
-
-
-
-<p class="pro">一天免費試用。</p>
-
-
-
-<p class="pro">基於Shadowsocks和V2Ray技術。</p>
-
-
-
-<p class="pro">支援主流裝置，同時5個連線。</p>
-
-
-
-<p class="pro">7天無理由退款。</p>
-
-
-
-<p class="pro">接受支付寶付款。</p>
-
-
-
-<p class="con">服務商背景未明。</p>
-
-
-
-<div class="wp-container-6205da4331ab2 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/lightyear" rel="nofollow noopener" target="_blank">LightYearVPN官方網站</a></div>
-</div>
-
 
 
 <h2><span id="chang_jian_wen_ti">常見問題</span></h2>
