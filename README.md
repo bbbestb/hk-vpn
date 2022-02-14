@@ -43,6 +43,8 @@
 
 
 
+<h3><span id="ExpressVPN">ExpressVPN</span></h3>
+
 <p>ExpressVPN日本提供刪除機房節點：</p>
 
 
@@ -347,10 +349,7 @@
 <div class="rank-math-answer "><p>我用過很多VPN APP：Astrill，ExpressVPN，PandaVPN，VyprVPN，歡迎你告訴我其餘VPN的使用體驗。</p>
 </div>
 </div>
-<div id="faq-question-1621849187953" class="rank-math-list-item">
-<h3 class="rank-math-question "><span id="bu_qu_zhong_guo_ru_he_huo_de_zhong_guoIP">不去中國如何獲得中國IP？</span></h3>
-<div class="rank-math-answer "><p>請看：<a href="/%E5%A6%82%E4%BD%95%E7%94%A8vpn%E7%BF%BB%E7%89%86%E5%88%B0%E5%A4%A7%E9%99%B8/" data-type="URL" data-id="/如何用vpn翻牆到大陸/" class="rank-math-link">如何用VPN翻牆到大陸，獲得大陸IP地址？</a></p>
-</div>
+
 </div>
 </div>
 </div>
