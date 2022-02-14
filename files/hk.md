@@ -1,3 +1,329 @@
+<h2><span id="xiang_gangVPN_you3da_yong_tu">香港VPN有3大用途</span></h2>
+
+
+
+<ol><li>保護香港人上網隱私</li><li>獲取香港IP，訪問僅限香港地區的線上服務</li><li>幫助大陸網民高速翻牆</li></ol>
+
+
+
+<figure class="wp-block-image size-full"><img width="1280" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20600'%3E%3C/svg%3E" alt="香港VPN的用途與推薦" class="wp-image-595" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/05/%E9%A6%99%E6%B8%AFVPN%E7%9A%84%E7%94%A8%E9%80%94%E8%88%87%E6%8E%A8%E8%96%A6.jpg"><noscript><img width="1280" height="600" src="https://vpns.tw/wp-content/uploads/2021/05/%E9%A6%99%E6%B8%AFVPN%E7%9A%84%E7%94%A8%E9%80%94%E8%88%87%E6%8E%A8%E8%96%A6.jpg" alt="香港VPN的用途與推薦" class="wp-image-595"></noscript></figure>
+
+
+
+<h2><span id="1_bao_hu_xiang_gang_ren_shang_wang_yin_si">1. 保護香港人上網隱私</span></h2>
+
+
+
+<p>如果你身處香港，想保證個人上網隱私不受洩露，那麼選擇VPN時要非常小心。</p>
+
+
+
+<p>避開所有免費VPN，完全免費的VPN會100%洩露你的資料，因為他們就是靠竊取/售賣客戶資料賺錢的。</p>
+
+
+
+<p>瑞士是<a href="https://en.wikipedia.org/wiki/Swiss_neutrality" class="rank-math-link" target="_blank" rel="noopener">中立國</a>，處於<a href="https://en.wikipedia.org/wiki/UKUSA_Agreement" class="rank-math-link" target="_blank" rel="noopener">14眼聯盟</a>之外，也是全世界<a href="https://www.cloudwards.net/the-best-cloud-privacy-laws/" class="rank-math-link" target="_blank" rel="noopener">資料隱私立法最嚴</a>的國家之一，如果你想最大限度地保護上網隱私，我們推薦總部位於瑞士的VyprVPN和ProtonVPN。 </p>
+
+
+
+<h3><span id="VyprVPN">VyprVPN</span></h3>
+
+
+
+
+
+
+
+<p class="pro">總部位於資料隱私保護法律嚴苛的中立國：瑞士。</p>
+
+
+
+<p class="pro">全球2百萬使用者。</p>
+
+
+
+<p class="pro">VyprVPN的伺服器都是自有的，而非租用第三方雲服務的主機。</p>
+
+
+
+<p class="pro">客戶端支援絕大多數裝置，包括絕大多數iOS和Android裝置。</p>
+
+
+
+<p class="pro">支援5臺裝置同時連線。</p>
+
+
+
+<p class="pro">支援 <span class="glossary-tooltip glossary-term-60" tabindex="0"><span class="glossary-link"><a href="https://www.wireguard.com/" target="_blank">WireGuard</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">一种比传统VPN协议更高效更安全的加密传输协议。</span></span></span> 協議，無DNS洩露，支援 <span class="glossary-tooltip glossary-term-73" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=HZqZ5oMBJ7A" target="_blank">Kill Switch</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">網路在VPN與非VPN間切換時（如VPN軟體正在連線或暫時斷線）會臨時阻止出口流量，防止資料洩露。</span></span></span> ，經過<a class="rank-math-link" href="https://www.vyprvpn.com/audit.pdf" target="_blank" rel="noopener">第三方審計</a>的無日誌（No-Logs）政策。</p>
+
+
+
+<p class="pro">廣泛支援主流流媒體平臺（如Hulu、Netflix）。</p>
+
+
+
+<p class="pro">獨創變色龍協議（Chameleon Protocol），是極少數能幫助中國網民翻牆上網的VPN。</p>
+
+
+
+<p class="pro">提供能獨立部署私有伺服器的商用方案。</p>
+
+
+
+<p class="pro">承諾30天無理由退款以及24/7實時線上客服。</p>
+
+
+
+<p class="con">已不再接受支付寶/微信付款，對中國大陸使用者來說不太方便。</p>
+
+
+
+<p class="con">變色龍協議下的連線與傳輸速度都不算快。</p>
+
+
+
+<div class="wp-container-6205cd3712fdb wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/vyr" rel="nofollow noopener" target="_blank">VyprVPN官方網站</a></div>
+</div>
+
+
+
+<h3><span id="ProtonVPN">ProtonVPN</span></h3>
+
+
+
+<p class="pro">位於中立且資料隱私保護的相關法律嚴苛的瑞士。</p>
+
+
+
+<p class="pro">伺服器全部位於瑞士和冰島境內，這兩個國家的資料隱私立法是全球最嚴厲的。</p>
+
+
+
+<p class="pro">伺服器位於瑞士底下1000米的戰士逃生設施內。</p>
+
+
+
+<p class="pro">支援同時10臺裝置連線。</p>
+
+
+
+<p class="pro">流量受保護的多跳伺服器間傳輸，離開ProtonVPN網路時已極難追蹤。</p>
+
+
+
+<p class="pro">自帶廣告攔截。</p>
+
+
+
+<p class="pro">支援DNS洩露保護， <span class="glossary-tooltip glossary-term-73" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=HZqZ5oMBJ7A" target="_blank">Kill Switch</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">網路在VPN與非VPN間切換時（如VPN軟體正在連線或暫時斷線）會臨時阻止出口流量，防止資料洩露。</span></span></span> 。</p>
+
+
+
+<p class="pro">支援Tor協議。</p>
+
+
+
+<p class="pro">支援100%匿名註冊。</p>
+
+
+
+<p class="pro">支援P2P。</p>
+
+
+
+<p class="con">價格偏高。</p>
+
+
+
+<p class="con">沒有線上客服。</p>
+
+
+
+<p class="con">中國大陸無法使用。</p>
+
+
+
+<div class="wp-container-6205cd37138a4 wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://protonvpn.com/" rel="noopener" target="_blank">ProtonVPN官方網站</a></div>
+</div>
+
+
+
+<h2><span id="2_huo_qu_xiang_gangIP_fang_wen_jin_xian_xiang_gang_de_qu_de_xian_shang_fu_wu">2. 獲取香港IP，訪問僅限香港地區的線上服務</span></h2>
+
+
+
+<p>人不在香港，但要訪問香港銀行，觀看香港TVB或Netflix香港區的節目，你需要一個香港IP地址，VPN能幫你。</p>
+
+
+
+<p>提供香港本地IP的VPN不少：</p>
+
+
+
+<h3><span id="NordVPN">NordVPN</span></h3>
+
+
+
+<figure class="wp-block-image size-large is-resized" id="nordvpn"><a href="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-scaled.jpg"><picture class="wp-image-769">
+<source type="image/webp" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg.webp 1024w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-300x169.jpg.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-768x433.jpg.webp 768w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1536x866.jpg.webp 1536w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-2048x1155.jpg.webp 2048w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20577&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
+<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20577&#039;%3E%3C/svg%3E" alt="NordVPN Protected" width="1024" height="577" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg 1024w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-300x169.jpg 300w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-768x433.jpg 768w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1536x866.jpg 1536w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-2048x1155.jpg 2048w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg"/>
+</picture>
+<noscript><picture class="wp-image-769">
+<source type="image/webp" srcset="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg.webp 1024w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-300x169.jpg.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-768x433.jpg.webp 768w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1536x866.jpg.webp 1536w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-2048x1155.jpg.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+<img src="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg" alt="NordVPN Protected" width="1024" height="577" srcset="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg 1024w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-300x169.jpg 300w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-768x433.jpg 768w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1536x866.jpg 1536w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-2048x1155.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+</picture>
+</noscript></a></figure>
+
+
+
+<div class="wp-container-6205cd3713fcd wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/nrd" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+</div>
+
+
+
+
+
+
+
+<p class="pro">基於 <span class="glossary-tooltip glossary-term-60" tabindex="0"><span class="glossary-link"><a href="https://www.wireguard.com/" target="_blank">WireGuard</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">一种比传统VPN协议更高效更安全的加密传输协议。</span></span></span> 的輕量VPN協議，為大流量網路應用而優化。</p>
+
+
+
+<p class="pro">支援P2P。</p>
+
+
+
+<p class="pro">經過<a href="https://nordvpn.com/zh/blog/nordvpn-audit/" target="_blank" rel="noopener">三方審計</a>的無日誌政策。</p>
+
+
+
+<p class="pro">支援所有作業系統，支援同時6臺裝置訪問。</p>
+
+
+
+<p class="pro">提供Chrome、Firefox瀏覽器外掛。</p>
+
+
+
+<p class="pro">支援 <span class="glossary-tooltip glossary-term-73" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=HZqZ5oMBJ7A" target="_blank">Kill Switch</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">網路在VPN與非VPN間切換時（如VPN軟體正在連線或暫時斷線）會臨時阻止出口流量，防止資料洩露。</span></span></span> 。</p>
+
+
+
+<p class="pro">支援<span class="glossary-tooltip glossary-term-86" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=25maiR0IeRw" target="_blank">隧道拆分</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">VPN客戶端選擇性地決定哪些APP或到某些網址的訪問流量經過或不經過VPN加密通道。</span></span></span>。</p>
+
+
+
+<p class="pro">提供固定地區的私有IP，每年70美金，每個IP同時供2臺裝置使用。</p>
+
+
+
+<p class="pro">自動遮蔽廣告和惡意網站。</p>
+
+
+
+<p class="pro">接受比特幣支付。</p>
+
+
+
+<p class="con">只有部分節點支援P2P。</p>
+
+
+
+<p class="con">並非所有客戶端都支援<span class="glossary-tooltip glossary-term-86" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=25maiR0IeRw" target="_blank">隧道拆分</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">VPN客戶端選擇性地決定哪些APP或到某些網址的訪問流量經過或不經過VPN加密通道。</span></span></span>。</p>
+
+
+
+<p class="con">需要在客戶端區分混淆與非混淆伺服器，令人費解，為什麼不為所有節點開啟更安全的混淆服務。</p>
+
+
+
+<p class="con">中國大陸使用極不穩定。</p>
+
+
+
+<div class="wp-container-6205cd37144cc wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/nrd" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+</div>
+
+
+
+<h3><span id="SurfShark">SurfShark</span></h3>
+
+
+
+<figure class="wp-block-image size-large" id="surfshark"><a href="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png"><picture class="wp-image-767">
+<source type="image/webp" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png.webp 1024w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-300x180.png.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-768x461.png.webp 768w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png.webp 1280w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20614&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
+<img width="1024" height="614" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20614&#039;%3E%3C/svg%3E" alt="Surfshark Preview 01" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png 1024w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-300x180.png 300w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-768x461.png 768w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png"/>
+</picture>
+<noscript><picture class="wp-image-767">
+<source type="image/webp" srcset="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png.webp 1024w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-300x180.png.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-768x461.png.webp 768w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+<img width="1024" height="614" src="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png" alt="Surfshark Preview 01" srcset="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png 1024w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-300x180.png 300w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-768x461.png 768w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+</picture>
+</noscript></a></figure>
+
+
+
+<div class="wp-container-6205cd3714b97 wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/nrd" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+</div>
+
+
+
+
+
+
+
+<p class="pro">不限裝置數量。</p>
+
+
+
+<p class="pro">自動攔截廣告和惡意軟體。</p>
+
+
+
+<p class="pro">支援所有主流作業系統，提供Chrome、Firefox外掛。</p>
+
+
+
+<p class="pro">支援<span class="glossary-tooltip glossary-term-86" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=25maiR0IeRw" target="_blank">隧道拆分</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">VPN客戶端選擇性地決定哪些APP或到某些網址的訪問流量經過或不經過VPN加密通道。</span></span></span>。</p>
+
+
+
+<p class="pro">30天無理由退款。</p>
+
+
+
+<p class="pro">接受加密貨幣支付。</p>
+
+
+
+<p class="pro">接受支付寶支付。</p>
+
+
+
+<p class="con">P2P速度慢。</p>
+
+
+
+<p class="con">可以用來從中國翻牆但不穩定。</p>
+
+
+
+<div class="wp-container-6205cd371500d wp-block-buttons is-content-justification-center">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/surfshark" rel="nofollow noopener" target="_blank">SurfShark官方網站</a></div>
+</div>
+
+
+
+<h2><span id="3_bang_zhu_da_lu_wang_min_gao_su_fan_qiang">3. 幫助大陸網民高速翻牆</span></h2>
+
+
+
+<p>因為香港到內地近在咫尺，隸屬中國但不受大陸網路管制，一直是中國網名翻牆的首選出口。</p>
+
 <div class="hero-section" data-type="type-1" >
 	<header class="entry-header">
 		<h1 class="page-title" title="中國翻牆VPN推薦" itemprop="headline" >中國翻牆VPN推薦</h1><ul class="entry-meta" data-type="icons:circle"  ><li class="meta-updated-date" itemprop="dateModified" ><svg width="13" height="13" viewBox="0 0 15 15"> <path d="M7.5,0C3.4,0,0,3.4,0,7.5S3.4,15,7.5,15S15,11.6,15,7.5S11.6,0,7.5,0z M7.5,13.6c-3.4,0-6.1-2.8-6.1-6.1c0-3.4,2.8-6.1,6.1-6.1c3.4,0,6.1,2.8,6.1,6.1C13.6,10.9,10.9,13.6,7.5,13.6z M8.2,4v3.5C8.2,7.8,8,8,7.8,8.1L5.1,9.5C5,9.5,4.9,9.5,4.8,9.5c-0.3,0-0.5-0.1-0.6-0.4C4,8.8,4.1,8.4,4.5,8.3l2.4-1.2V4c0-0.4,0.3-0.7,0.7-0.7S8.2,3.6,8.2,4z"/> </svg><time class="ct-meta-element-date" datetime="2021-06-07T14:26:06+08:00" >更新：2021年06月07日</time></li></ul>	</header>
