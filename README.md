@@ -348,7 +348,7 @@
 </div>
 <div id="faq-question-1621847726286" class="rank-math-list-item">
 <h3 class="rank-math-question "><span id="ni_tui_jian_deVPN_ni_dou_yong_guo_ma">你推薦的VPN你都用過嗎？</span></h3>
-<div class="rank-math-answer "><p>我用過很多VPN APP：Astrill，ExpressVPN，PandaVPN，VyprVPN，歡迎你告訴我其餘VPN的使用體驗。</p>
+<div class="rank-math-answer "><p>我用過很多VPN APP：NordVPN, Astrill，ExpressVPN，PandaVPN，VyprVPN，歡迎你告訴我其餘VPN的使用體驗。</p>
 </div>
 </div>
 
